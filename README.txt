@@ -1,5 +1,5 @@
 #Required python Modules
-pynuput
+pynput
 threading
 smtplib
 
